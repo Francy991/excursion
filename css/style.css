@@ -1,4 +1,42 @@
-.header {
+body {
+  background-color: black;
   font-family: Verdana;
-text-align: center;
+  text-align: center;
+}
+
+.header {
+  font-weight: normal;
+  color: white;
+  font-size: 50px;
+}
+
+.header-second {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+h4 {
+  font-size: 21px;
+  color: grey;
+  text-align: center;
+}
+
+.clickable-link {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  color: white;
+  font-size: 42px;
+}
+
+.footer {
+  color: white;
+}
+
+.copyright {
+  text-align: right;
+  color: grey;
 }
